@@ -20,7 +20,7 @@ class AccountScreen extends StatelessWidget {
                   _AccountTile(title: "Wallet", icon: Icons.account_balance_wallet),
                   _AccountTile(title: "My Appointment", icon: Icons.calendar_today),
                   _AccountTile(title: "My Order", icon: Icons.shopping_bag),
-                  _AccountTile(title: "Membership", icon: Icons.card_membership),
+                  _AccountTile(title: "Memberships", icon: Icons.card_membership),
                   _AccountTile(title: "Add Address", icon: Icons.location_on),
                   _AccountTile(title: "Help & Support", icon: Icons.help_outline),
                   _AccountTile(title: "Terms & Policies", icon: Icons.policy),
